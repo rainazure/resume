@@ -34,6 +34,7 @@ interests:
   - Food Packaging
   - Intelligent Packaging
   - Food coloring
+  - Sensory Evaluation
 
 # Education to show in About widget
 education:
@@ -53,10 +54,10 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Python
+      - name: Optimization of natural compound extraction
         description: ''
         percent: 80
-        icon: python
+        icon: 
         icon_pack: fab
       - name: Data Science
         description: ''
