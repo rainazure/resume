@@ -73,19 +73,19 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Books (comics) Reading
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: book
         icon_pack: fas
       - name: Cats
         description: ''
-        percent: 100
+        percent: 40
         icon: cat
         icon_pack: fas
       - name: Photography
         description: ''
-        percent: 80
+        percent: 30
         icon: camera-retro
         icon_pack: fas
 
@@ -99,7 +99,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/lasuardi
     label: Follow me on Twitter
     display:
       header: true
