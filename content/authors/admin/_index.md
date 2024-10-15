@@ -56,18 +56,28 @@ education:
 skills:
   - name: Technical
     items:
-      - name: Optimization of natural compound extraction
-        description: ''
-        percent: 80
+      - name: Optimization of Natural Compound Extraction Processes
+        description: 'Expertise in optimizing extraction methods for bioactive compounds to enhance yield and functionality for food applications.'
+        percent: 90
         icon: 
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: Development of Intelligent Packaging Materials
+        description: 'Designing and developing intelligent packaging films using natural materials.'
+        percent: 80
         icon: chart-line
         icon_pack: fas
-      - name: SQL
-        description: ''
+      - name: Utilization of Waste in Food Technology
+        description: 'Utilizing agricultural by-products for functional applications in food applications.'
+        percent: 40
+        icon: database
+        icon_pack: fas
+      - name: Advanced Polymer Characterization Techniques
+        description: 'Expertise in using advanced techniques for evaluating mechanical, structural, and functional properties of biodegradable films.'
+        percent: 40
+        icon: database
+        icon_pack: fas      
+      - name: Sustainable Packaging Development
+        description: 'Technical ability in developing eco-friendly, biodegradable packaging solutions to reduce environmental impact.'
         percent: 40
         icon: database
         icon_pack: fas
@@ -75,20 +85,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Books (comics) Reading
-        description: ''
+      - name: Books Reading
+        description: 'Love to read comics, webtoons, and manga'
         percent: 60
         icon: book
         icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 40
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 30
-        icon: camera-retro
+      - name: Computer troubleshooting
+        description: 'enjoying his time to fix anything related to computer, MacOS, Windows, and electronics'
+        percent: 70
+        icon: computer
         icon_pack: fas
 
 # Social/Academic Networking
