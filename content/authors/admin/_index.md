@@ -17,12 +17,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Agroindustrial Waste  Valorization
+role: Lecturer - Researcher - Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Institut Teknologi Sumatera
     url: https://www.itera.ac.id/
+  - name: King Mongkut's Institute Technology of Ladkrabang
+    url: https://www.kmitl.ac.th/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include agricultural waste valorization, food packaging, food coloring, active packaging, and intelligent packaging.
