@@ -59,7 +59,7 @@ skills:
       - name: Optimization of Natural Compound Extraction Processes
         description: 'Expertise in optimizing extraction methods for bioactive compounds to enhance yield and functionality for food applications.'
         percent: 90
-        icon: 
+        icon: cannabis
         icon_pack: fab
       - name: Development of Intelligent Packaging Materials
         description: 'Designing and developing intelligent packaging films using natural materials.'
